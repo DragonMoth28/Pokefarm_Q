@@ -1,7 +1,7 @@
 # Pokefarm_Q
 This includes any Pokéfarm Q SVGs I need to put offsite, because Sally won't let me host SVG files on the Image Uploader! 
 
-Niet can't help and I refused to ask for help so now I wrestle Github!
+Niet can't help and I refused to ask for help after one person didn't know so now I wrestle Github.
 
 Websites
 
