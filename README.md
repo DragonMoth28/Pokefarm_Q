@@ -5,8 +5,6 @@ Niet can't help and I refused to ask for help after one person didn't know so no
 
 All I need is your OG Plateform SVG and your custom sprite (must have the creator's permission for you to use it, if it's yours, tell me!).
 
-If you see this, please DM me on Discord (The Infinity System#9781) for one as I will refuse orders on PFQ.
-
 Websites
 
 Image to DataURL Converter: https://ezgif.com/image-to-datauri
