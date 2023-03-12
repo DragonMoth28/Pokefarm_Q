@@ -15,4 +15,4 @@ What IS a DataURL?: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_
 
 Pokéfarm Q for my outside people: https://pokefarm.com
 
-If you want to join the game, use my account, Moth Dragonfly, as your referrer!
+If you want to join the game, use my account, Moth Dragonfly, as your referrer (unless you have someone else in mind, that is. Either way you'll get special rewards)
