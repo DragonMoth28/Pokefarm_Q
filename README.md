@@ -7,7 +7,11 @@ All I need is your OG Plateform SVG and your custom sprite (must have the creato
 
 Websites
 
+What is an SVG?: https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html
+
 Image to DataURL Converter: https://ezgif.com/image-to-datauri
+
+What IS a DataURL?: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs
 
 Pokéfarm Q for my outside people: https://pokefarm.com
 
