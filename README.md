@@ -9,7 +9,7 @@ Websites
 
 What is an SVG?: https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html
 
-Image to DataURL Converter: https://ezgif.com/image-to-datauri
+Image to DataURL Converter: https://onlineimagetools.com/convert-image-to-data-uri
 
 What IS a DataURL?: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Data_URLs
 
